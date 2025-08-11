@@ -1,0 +1,10 @@
+pdfplumber
+pytesseract
+PyMuPDF
+tabula-py
+JPype1
+Pillow
+numpy
+scikit-learn
+python-docx
+opencv-python
